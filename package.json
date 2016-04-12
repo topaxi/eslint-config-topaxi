@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-topaxi",
+  "version": "1.0.0",
+  "description": "ESLint rules used by topaxi",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topaxi/eslint-config-topaxi.git"
+  },
+  "author": "Damian Senn <damian.senn@topaxi.codes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topaxi/eslint-config-topaxi/issues"
+  },
+  "homepage": "https://github.com/topaxi/eslint-config-topaxi#readme",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "topaxi"
+  ]
+}
